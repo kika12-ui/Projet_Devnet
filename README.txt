@@ -1,4 +1,5 @@
 Adding a line for rebasing example 
+then adding more changes from my feature branch too 
 Paradigm Shift by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
